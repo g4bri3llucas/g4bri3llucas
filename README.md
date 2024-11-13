@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since "2019"<br>📚 I'm currently learning "cybersecurity and back-end development"<br>🎯 Goals: "To become proficient in full-stack development and work on impactful projects in the tech industry"<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since "2019"<br>📚 I'm currently learning "cybersecurity and back-end development"<br>🎯 Goals: "To become proficient in full-stack development and work on impactful projects in the tech industry"<br>🎲 Fun fact: "I love music and horror movies!"</p>
 
 ###
 
