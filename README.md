@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">"My name is Gabriel Lucas, and I'm a 21-year-old front-end developer from Brazil."</p>
+<p align="left">"Fullstack JavaScript Developer
+
+React • Node • TypeScript • Angular"</p>
 
 ###
 
