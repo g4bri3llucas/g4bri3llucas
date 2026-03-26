@@ -12,7 +12,12 @@ React • Node • TypeScript • Angular"</p>
 
 ###
 
-<p align="left">✨ Creating bugs since "2019"<br>📚 I'm currently learning "cybersecurity and back-end development"<br>🎯 Goals: "To become proficient in full-stack development and work on impactful projects in the tech industry"<br>🎲 Fun fact: "I love music and horror movies!"</p>
+<p align="left">
+✨ Creating bugs since 2019 <br>
+📚 I'm currently learning Cybersecurity and Back-end Development <br>
+🎯 Goals: Become proficient in Full-Stack Development and work on impactful projects in the tech industry <br>
+🎲 Fun fact: I love music and horror movies!
+</p>
 
 ###
 
