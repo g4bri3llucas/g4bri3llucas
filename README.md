@@ -13,10 +13,11 @@ React • Node • TypeScript • Angular"</p>
 ###
 
 <p align="left">
-✨ Creating bugs since 2019 <br>
-📚 I'm currently learning Cybersecurity and Back-end Development <br>
-🎯 Goals: Become proficient in Full-Stack Development and work on impactful projects in the tech industry <br>
-🎲 Fun fact: I love music and horror movies!
+💻 Junior Full-Stack Web Developer since 2019  
+🚀 Focused on building scalable, clean, and user-centered web applications  
+🎯 Goal: Grow as a Full-Stack Web Developer and contribute to impactful, real-world projects  
+🛠️ Passionate about modern web technologies and continuous professional growth  
+🎲 Fun fact: I enjoy music, horror movies, and exploring new technologies
 </p>
 
 ###
@@ -36,7 +37,6 @@ React • Node • TypeScript • Angular"</p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
 ###
