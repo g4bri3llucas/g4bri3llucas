@@ -13,11 +13,11 @@ React • Node • TypeScript • Angular"</p>
 ###
 
 <p align="left">
-💻 Junior Full-Stack Web Developer since 2019  
-🚀 Focused on building scalable, clean, and user-centered web applications  
-🎯 Goal: Grow as a Full-Stack Web Developer and contribute to impactful, real-world projects  
-🛠️ Passionate about modern web technologies and continuous professional growth  
-🎲 Fun fact: I enjoy music, horror movies, and exploring new technologies
+💻 Junior Full-Stack Web Developer since 2019 <br>
+🚀 Focused on building scalable, clean, and user-centered web applications <br>
+🎯 Goal: Grow as a Full-Stack Web Developer and contribute to impactful, real-world projects <br>
+🛠️ Passionate about modern web technologies and continuous professional growth <br>
+🎲 Fun fact: I enjoy music, horror movies, and exploring new technologies <br>
 </p>
 
 ###
