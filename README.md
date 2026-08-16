@@ -1,118 +1,147 @@
-# 🧑🏽‍💻 Gabriel Lucas
+# 👨🏽‍💻 Gabriel Lucas
 
-**`Desenvolvedor FullStack`**
+**`Full Stack Developer`**
 
-Me chamo Gabriel Lucas, tenho 22 anos e atualmente moro em Goiânia Goiás. Concluí minha graduação na faculdade estacio, no curso de Ciencias da computação. Atualmente, estou em busca de oportunidades de trabalho fora do brasil.
+I'm **Gabriel Lucas**, a Computer Science graduate from Brazil, currently based in **Goiânia, Goiás**.
 
-<p align="left">
-    <a href="https://github.com/g4bri3llucas?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/g4bri3llucas?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+I'm passionate about building modern, scalable, and user-focused web applications. I enjoy turning ideas into practical solutions and continuously improving my skills through real-world projects.
+
+I'm currently **open to international opportunities**, especially in **Full Stack, Frontend, and Web Development** roles.
+
+---
+
+### 🚀 About Me
+
+* 🎓 **B.Sc. in Computer Science**
+* 💻 **Full Stack Developer**
+* 🌎 Open to **international and remote opportunities**
+* ⚛️ Focused on **React, JavaScript, TypeScript, and Node.js**
+* 🧠 Always learning and building new projects
+* 🔧 Interested in **Web Development, SaaS, APIs, and Software Engineering**
+* 📚 Constantly improving my knowledge through hands-on projects
+
+---
+
+### 🛠️ Languages & Technologies
+
+#### Frontend
+
+<img align="left" alt="HTML5" title="HTML5" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" title="CSS3" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="React" title="React" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" title="Next.js" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Bootstrap" title="Bootstrap" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="jQuery" title="jQuery" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+
+<br/>
+<br/>
+
+#### Backend & Database
+
+<img align="left" alt="Node.js" title="Node.js" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" title="Python" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="SQL" title="SQL" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Firebase" title="Firebase" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+<img align="left" alt="Supabase" title="Supabase" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+
+<br/>
+<br/>
+
+#### Tools & Workflow
+
+<img align="left" alt="Git" title="Git" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="Docker" title="Docker" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="VS Code" title="VS Code" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+
+<br/>
+<br/>
+
+---
+
+### 💼 Featured Projects
+
+Here are some of the projects I've been working on:
+
+#### 📊 SaaS & Dashboard Applications
+
+Building modern dashboards and SaaS platforms using **React, TypeScript, Tailwind CSS, Node.js, APIs, and databases**.
+
+#### 🎬 Movie Search Application
+
+A movie discovery application built with **React** and external APIs, focused on responsive UI and API integration.
+
+#### 📦 Inventory Management System
+
+A practical inventory management solution designed to help businesses track products, quantities, entries, and exits.
+
+#### 🅿️ Smart Parking / IoT Project
+
+A parking management project involving **IoT, computer vision, vehicle detection, and license plate recognition**.
+
+> 🚧 More projects are being developed and will be added here soon.
+
+---
+
+### 📊 GitHub Statistics
+
+<p>
+  <img 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=g4bri3llucas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
+  />
+
+<img 
+ height="180"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4bri3llucas&theme=tokyonight&layout=compact&custom_title=Most%20Used%20Technologies&langs_count=9"
+/>
+
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🌎 Open to International Opportunities
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+I'm currently looking for opportunities where I can contribute to real-world projects, work with experienced development teams, and continue growing as a software engineer.
 
-<br/>
-<br/>
+I'm especially interested in:
+
+* 🌐 Remote international positions
+* 💻 Full Stack Developer roles
+* ⚛️ Frontend / React Developer roles
+* 🟢 Node.js Developer roles
+* 🚀 Startups and SaaS companies
+* 🌍 International software teams
+
+I'm always open to connecting with developers, recruiters, and companies from around the world.
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/g4bri3llucas">
+    <img 
+      alt="GitHub"
+      title="GitHub"
+      src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/">
+    <img 
+      alt="LinkedIn"
+      title="LinkedIn"
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> I believe the best way to learn software development is by building real projects, breaking things, fixing them, and continuously improving. 🚀
