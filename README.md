@@ -86,23 +86,6 @@ A parking management project involving **IoT, computer vision, vehicle detection
 
 ---
 
-### 📊 GitHub Statistics
-
-<p>
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=g4bri3llucas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
-  />
-
-<img 
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4bri3llucas&theme=tokyonight&layout=compact&custom_title=Most%20Used%20Technologies&langs_count=9"
-/>
-
-</p>
-
----
-
 ### 🌎 Open to International Opportunities
 
 I'm currently looking for opportunities where I can contribute to real-world projects, work with experienced development teams, and continue growing as a software engineer.
