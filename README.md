@@ -18,7 +18,7 @@ Você cola o currículo (e, se quiser, a descrição da vaga) e recebe uma nota,
 Lista de viagem ("já visitei" / "quero visitar") e comparador de países. Tem 250 páginas geradas estaticamente (SSG), busca e filtro com SSR, estado global com Redux Toolkit e comparador com Zustand.
 `Next.js` `TypeScript` `Tailwind` `Redux Toolkit` `Zustand` `Jest`
 
-### [PixelStore](https://github.com/g4bri3llucas/PixelStore): e-commerce de games
+### [PixelStore](https://github.com/g4bri3llucas/PixelStore): e-commerce de games · [🔗 demo](https://pixelstore-puce.vercel.app)
 Front-end de loja com dados reais da API RAWG: busca com debounce, filtros e ordenação, carrinho persistente e skeleton loaders para evitar layout shift.
 `React` `TypeScript` `Vite` `React Router` `Context API`
 
