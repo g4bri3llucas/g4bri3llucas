@@ -10,9 +10,9 @@ Formado em Ciência da Computação. Construo interfaces com React, Next.js e Ty
 
 ## 🚀 Projetos em destaque
 
-### [Polish](https://github.com/g4bri3llucas/polish): revisor de currículo com IA
-Você cola o currículo (e, se quiser, a descrição da vaga) e recebe uma nota, pontos fortes, problemas e sugestões. A resposta chega em tempo real, via **streaming (SSE)**. A chave da API de LLM fica só no back-end, e os testes dos dois lados usam fakes, sem chamar a API de verdade.
-`Angular` `TypeScript` `Node.js` `Express` `Vitest`
+### [Polish](https://github.com/g4bri3llucas/polish): revisor de currículo com IA · [🔗 demo](https://polish-inky.vercel.app)
+Você cola o currículo (e, se quiser, a descrição da vaga) e recebe uma nota, pontos fortes, problemas e sugestões. A resposta chega em tempo real, via **streaming (SSE)**. A chave do Gemini fica só no back-end, que tenta de novo quando o modelo está sobrecarregado ou trava. Os testes dos dois lados usam fakes, sem chamar a API de verdade, e rodam no CI a cada push.
+`Angular` `TypeScript` `Node.js` `Express` `Gemini` `Vitest` `GitHub Actions`
 
 ### [Atlas](https://github.com/g4bri3llucas/atlas-countries): explorador de países
 Lista de viagem ("já visitei" / "quero visitar") e comparador de países. Tem 250 páginas geradas estaticamente (SSG), busca e filtro com SSR, estado global com Redux Toolkit e comparador com Zustand.
@@ -60,7 +60,7 @@ Painel de monitoramento de disponibilidade e gestão de incidentes para equipes 
 
 ## 🌱 Agora
 
-- Terminando o **Polish**: CI com GitHub Actions e deploy
+- Revisando os projetos do portfólio: README, testes e deploy de cada um
 - Construindo o **Pulseboard**: worker de checagem e detecção de incidentes
 - Começando o **CaixaCerta**, um sistema de PDV e estoque para pequenas lojas (Fastify, Drizzle e React)
 
